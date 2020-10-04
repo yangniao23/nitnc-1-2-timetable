@@ -1,0 +1,1922 @@
+- id: "16"
+  name: 長岡工業高等専門学校
+  departments:
+    - id: "14"
+      name: 電子制御工学科
+      subjects:
+        - id: "0002"
+          name: 保健体育
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 江田 茂行
+            - 桐生 拓
+        - id: "0004"
+          name: 国語
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 3.0
+            - grade: 1
+              term: Late
+              count: 3.0
+          teachers:
+            - 熊尾 紗耶
+            - 髙加茂 陽子
+        - id: "0005"
+          name: 世界史
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 田中 聡
+            - 鈴木 覚
+            - 小名 富男
+        - id: "0006"
+          name: 現代社会
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 公俊
+            - 小名 富男
+        - id: "0007"
+          name: 英語ⅠA
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 大湊 佳宏
+        - id: "0008"
+          name: 英語ⅠB
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 大森 理聡
+        - id: "0009"
+          name: 英語ⅠC
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 1.0
+            - grade: 1
+              term: Late
+              count: 1.0
+          teachers:
+            - 土田 泰子
+        - id: "0010"
+          name: 英語多読
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 1.0
+            - grade: 1
+              term: Late
+              count: 1.0
+          teachers:
+            - 土田 泰子
+        - id: "0011"
+          name: 音楽
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 吉川 理香子
+        - id: "0012"
+          name: 美術
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 土田 泰子
+        - id: "0014"
+          name: 基礎数学Ｂ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 1
+              term: Late
+              count: 6.0
+          teachers:
+            - 涌田 和芳
+            - 野澤 武司
+            - 佐藤 直紀
+            - 山田 章
+            - 中山 雅友美
+        - id: "0015"
+          name: 課題数学
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 1.0
+            - grade: 1
+              term: Late
+              count: 1.0
+          teachers:
+            - 涌田 和芳
+            - 野澤 武司
+            - 佐藤 直紀
+            - 山田 章
+            - 中山 雅友美
+        - id: "0016"
+          name: 基礎数学Ａ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 6.0
+          teachers:
+            - 涌田 和芳
+            - 野澤 武司
+            - 佐藤 直紀
+            - 山田 章
+            - 中山 雅友美
+        - id: "0017"
+          name: 化学
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 3.0
+            - grade: 1
+              term: Late
+              count: 3.0
+          teachers:
+            - 小川 秀
+            - 羽下 秀治
+        - id: "0018"
+          name: 生命環境基礎
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 鈴木 誠治
+        - id: "0019"
+          name: 国際関係学演習
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 1.0
+            - grade: 1
+              term: Late
+              count: 1.0
+          teachers:
+            - 平井 誠
+        - id: "0001"
+          name: 基礎情報処理
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 2.0
+            - grade: 1
+              term: Late
+              count: 2.0
+          teachers:
+            - 竹部 啓輔
+            - 上村 健二
+        - id: "0003"
+          name: 電子制御工学実験Ⅰ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 3.0
+            - grade: 1
+              term: Late
+              count: 3.0
+          teachers:
+            - 永井 睦
+            - 高橋 章
+        - id: "0013"
+          name: 数理演習Ⅰ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 1
+              term: Early
+              count: 1.0
+            - grade: 1
+              term: Late
+              count: 1.0
+          teachers:
+            - 高橋 章
+            - 酒井 一樹
+        - id: "0020"
+          name: 保健体育
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 江田 茂行
+        - id: "0023"
+          name: 国語
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 3.0
+            - grade: 2
+              term: Late
+              count: 3.0
+          teachers:
+            - 猪平 直人
+            - 黒田 知子
+        - id: "0024"
+          name: 日本史
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 田中 聡
+            - 小名 富男
+        - id: "0025"
+          name: 現代倫理
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 鈴木 覚
+        - id: "0026"
+          name: 英語ⅡA
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 福田 昇
+        - id: "0027"
+          name: 英語ⅡB
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 占部 昌蔵
+        - id: "0028"
+          name: 英語ⅡC
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 1.0
+            - grade: 2
+              term: Late
+              count: 1.0
+          teachers:
+            - 市村 勝己
+            - ポール エドワーズ
+        - id: "0029"
+          name: 英語多読
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 1.0
+            - grade: 2
+              term: Late
+              count: 1.0
+          teachers:
+            - 土田 泰子
+        - id: "0032"
+          name: 基礎数学Ｃ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 4.0
+          teachers:
+            - 田原 喜宏
+        - id: "0033"
+          name: 微分積分Ⅰ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Late
+              count: 4.0
+          teachers:
+            - 田原 喜宏
+        - id: "0034"
+          name: 代数幾何
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 野澤 武司
+        - id: "0036"
+          name: 物理Ａ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 新井 好司
+        - id: "0037"
+          name: 化学
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 小川 秀
+        - id: "0021"
+          name: 電子制御工学実験Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 3.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 3.0
+            - grade: 2
+              term: Late
+              count: 3.0
+          teachers:
+            - 梅田 幹雄
+            - 高橋 章
+        - id: "0022"
+          name: ディジタル工学基礎
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 拓史
+        - id: "0030"
+          name: 情報処理Ⅰ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 高橋 章
+            - 上村 健二
+        - id: "0031"
+          name: 数理演習Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 2
+              term: Early
+              count: 2.0
+          teachers:
+            - 上村 健二
+        - id: "0035"
+          name: 機械創造学
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 2
+              term: Late
+              count: 2.0
+          teachers:
+            - 永井 睦
+        - id: "0039"
+          name: 保健体育
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 桐生 拓
+        - id: "0047"
+          name: 国語
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 熊尾 紗耶
+            - 丸山 俊
+        - id: "0048"
+          name: 英語ⅢA
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 市村 勝己
+        - id: "0049"
+          name: 英語ⅢB
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 大湊 佳宏
+        - id: "0050"
+          name: 英語ⅢＣ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 1.0
+            - grade: 3
+              term: Late
+              count: 1.0
+          teachers:
+            - 市村 勝己
+            - ポール エドワーズ
+            - トッド モールド
+            - 福田 昇
+        - id: "0051"
+          name: 英語多読
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 1.0
+            - grade: 3
+              term: Late
+              count: 1.0
+          teachers:
+            - 土田 泰子
+        - id: "0055"
+          name: 微分積分Ⅱ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 冨樫 瑠美
+        - id: "0056"
+          name: 確率
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 田原 喜宏
+        - id: "0059"
+          name: 物理Ｃ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 4.0
+          teachers:
+            - 新井 好司
+        - id: "0060"
+          name: 物理Ｂ
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 4.0
+          teachers:
+            - 新井 好司
+        - id: "0040"
+          name: 電子制御工学実験Ⅲ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 4.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 4.0
+            - grade: 3
+              term: Late
+              count: 4.0
+          teachers:
+            - 梅田 幹雄
+            - 竹部 啓輔
+            - 皆川 正寛
+            - 上村 健二
+            - 酒井 一樹
+            - 高橋 章
+        - id: "0041"
+          name: ディジタル論理回路
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 上村 健二
+        - id: "0042"
+          name: 電気回路ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 梅田 幹雄
+        - id: "0043"
+          name: 電子回路ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0044"
+          name: 電子回路ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 太刀川 信一
+        - id: "0045"
+          name: 電磁気学Ⅰ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0046"
+          name: 電気回路ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 梅田 幹雄
+        - id: "0052"
+          name: 情報処理Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 竹部 啓輔
+        - id: "0053"
+          name: 工業数学ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 永井 睦
+        - id: "0054"
+          name: 工業数学ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 拓史
+        - id: "0057"
+          name: 基礎力学
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 外山 茂浩
+        - id: "0058"
+          name: 機械力学
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 酒井 一樹
+        - id: "0061"
+          name: 計算機システム
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 高橋 章
+        - id: "0062"
+          name: メカトロニクスA
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Early
+              count: 2.0
+          teachers:
+            - 酒井 一樹
+        - id: "0063"
+          name: メカトロニクスB
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 3
+              term: Late
+              count: 2.0
+          teachers:
+            - 外山 茂浩
+        - id: "0078"
+          name: 保健体育
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 桐生 拓
+            - 亀山 就平
+        - id: "0087"
+          name: 国語
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 猪平 直人
+            - 熊尾 紗耶
+        - id: "0088"
+          name: 英語演習
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 土田 泰子
+        - id: "0089"
+          name: 文学
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 猪平 直人
+        - id: "0094"
+          name: 統計学
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 冨樫 瑠美
+        - id: "0103"
+          name: コミュニケーション特講
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 市村 勝己
+            - 大湊 佳宏
+            - ポール エドワーズ
+            - トッド モールド
+            - 福田 昇
+        - id: "0105"
+          name: 独語Ⅰ
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 大橋 春菜
+        - id: "0072"
+          name: インターンシップⅠ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 電子制御工学科 学科長
+        - id: "0073"
+          name: インターンシップⅡ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 電子制御工学科 学科長
+        - id: "0074"
+          name: 工業数学Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 太刀川 信一
+        - id: "0075"
+          name: 電子デバイス工学
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0076"
+          name: 制御工学ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 拓史
+        - id: "0077"
+          name: 制御工学ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 酒井 一樹
+        - id: "0079"
+          name: 電子制御工学実験Ⅳ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 4.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 4.0
+            - grade: 4
+              term: Late
+              count: 4.0
+          teachers:
+            - 梅田 幹雄
+            - 佐藤 拓史
+            - 外山 茂浩
+            - 永井 睦
+            - 高橋 章
+            - 皆川 正寛
+        - id: "0080"
+          name: 電気回路ⅡＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 坪根 正
+        - id: "0081"
+          name: 電気回路ⅡＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0082"
+          name: 電子回路Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 太刀川 信一
+        - id: "0083"
+          name: 電磁気学ⅡＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0084"
+          name: 電磁気学ⅡＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 梅田 幹雄
+        - id: "0085"
+          name: 電子制御ゼミナール
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 電子制御工学科 全教員
+            - 佐藤 拓史
+        - id: "0086"
+          name: 電子制御基礎工学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 高橋 章
+        - id: "0090"
+          name: プログラミング演習Ⅰ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 上村 健二
+        - id: "0091"
+          name: アルゴリズムとデータ構造
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 竹部 啓輔
+        - id: "0092"
+          name: 応用数学ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 直紀
+        - id: "0093"
+          name: 応用数学ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 直紀
+            - 佐藤 雅尚
+        - id: "0095"
+          name: 離散数学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 高橋 章
+        - id: "0096"
+          name: 数値解析
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 上村 健二
+        - id: "0097"
+          name: 熱力学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 山田 隆一
+        - id: "0098"
+          name: 材料力学Ⅰ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 永井 睦
+        - id: "0099"
+          name: 物理学ⅠＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 秀一
+        - id: "0100"
+          name: 物理学ⅠＢ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 秀一
+        - id: "0101"
+          name: 技術科学フロンティア概論
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 4.0
+          teachers:
+            - 田中 聡
+            - 衞藤 俊彦
+        - id: "0102"
+          name: 科学技術英語Ⅰ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 皆川 正寛
+        - id: "0104"
+          name: 自己啓発型課題学修
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 4
+              term: Late
+              count: 2.0
+          teachers:
+            - 井山 徹郎
+            - 外山 茂浩
+            - 鈴木 義之
+        - id: "0157"
+          name: 保健体育
+          genre: 一般
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 江田 茂行
+            - 桐生 拓
+        - id: "0162"
+          name: 経済学
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 公俊
+        - id: "0163"
+          name: 哲学
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 鈴木 覚
+        - id: "0164"
+          name: 歴史学
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 田中 聡
+        - id: "0165"
+          name: 英語ⅤA
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 土田 泰子
+        - id: "0166"
+          name: 中国語
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 詹 秀娟
+        - id: "0167"
+          name: 韓国語
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 柳 昌雲
+        - id: "0168"
+          name: 英語特講
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 市村 勝己
+            - ポール エドワーズ
+        - id: "0186"
+          name: 英語ⅤB
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 福田 昇
+        - id: "0187"
+          name: 英語ⅤC
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 市村 勝己
+        - id: "0188"
+          name: 英語ⅤD
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 大森 理聡
+        - id: "0189"
+          name: 英語ⅤE
+          genre: 一般
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 占部 昌蔵
+        - id: "0153"
+          name: グローバルＰＢＬⅠ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 各実習プログラム 責任者
+            - 中村 奨
+        - id: "0154"
+          name: グローバルＰＢＬⅡ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes: []
+          teachers:
+            - 各実習プログラム 責任者
+            - 中村 奨
+        - id: "0155"
+          name: アントレプレナーシップ演習Ⅰ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 各実習プログラム 責任者
+        - id: "0156"
+          name: アントレプレナーシップ演習Ⅱ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes: []
+          teachers:
+            - 各実習プログラム 責任者
+        - id: "0158"
+          name: 卒業研究
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 10.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 10.0
+            - grade: 5
+              term: Late
+              count: 10.0
+          teachers:
+            - 電子制御工学科 全教員
+            - 佐藤 拓史
+        - id: "0159"
+          name: 計測システム工学
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 永井 睦
+        - id: "0160"
+          name: センサー工学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 梅田 幹雄
+        - id: "0169"
+          name: プログラミング演習Ⅱ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes: []
+          teachers:
+            - 高橋 章
+        - id: "0170"
+          name: コンピュータネットワーク
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 竹部 啓輔
+        - id: "0171"
+          name: ネットワークプログラミング
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 竹部 啓輔
+        - id: "0172"
+          name: データ通信工学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 酒井 一樹
+        - id: "0173"
+          name: 応用数学Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 鈴木 正太郎
+        - id: "0174"
+          name: 材料力学Ⅱ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 永井 睦
+        - id: "0175"
+          name: 物理学ⅡＡ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 秀一
+        - id: "0176"
+          name: 物理学ⅡB
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 秀一
+        - id: "0177"
+          name: 技術科学フロンティア概論
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 4.0
+          teachers:
+            - 田中 聡
+            - 衞藤 俊彦
+        - id: "0178"
+          name: 科学技術英語Ⅱ
+          genre: 専門
+          categories:
+            - 必修
+          credits_type: 履修単位
+          credits_count: 1.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 電子制御工学科 全教員
+        - id: "0179"
+          name: 制御工学Ⅱ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 佐藤 拓史
+        - id: "0180"
+          name: 線形制御
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+          teachers:
+            - 外山 茂浩
+        - id: "0181"
+          name: ロボット工学
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 学修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 佐藤 拓史
+        - id: "0182"
+          name: 長期インターンシップⅠ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 4.0
+          teachers:
+            - 教務 主事
+            - 機械工学科 学科長
+            - 電気電子システム工学科 学科長
+            - 電子制御工学科 学科長
+            - 物質工学科 学科長
+            - 環境都市工学科 学科長
+            - 市村 勝己
+        - id: "0183"
+          name: 長期インターンシップⅡ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 4.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 8.0
+          teachers:
+            - 教務 主事
+            - 機械工学科 学科長
+            - 電気電子システム工学科 学科長
+            - 電子制御工学科 学科長
+            - 物質工学科 学科長
+            - 環境都市工学科 学科長
+            - 市村 勝己
+        - id: "0184"
+          name: 長期インターンシップⅢ
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 6.0
+          classes:
+            - grade: 5
+              term: Late
+              count: 12.0
+          teachers:
+            - 教務 主事
+            - 機械工学科 学科長
+            - 電気電子システム工学科 学科長
+            - 電子制御工学科 学科長
+            - 物質工学科 学科長
+            - 環境都市工学科 学科長
+            - 市村 勝己
+        - id: "0185"
+          name: プログラム研究基礎セミナー
+          genre: 専門
+          categories:
+            - 選択
+          credits_type: 履修単位
+          credits_count: 2.0
+          classes:
+            - grade: 5
+              term: Early
+              count: 2.0
+            - grade: 5
+              term: Late
+              count: 2.0
+          teachers:
+            - 村上 祐貴
+            - 陽田 修
+            - 鈴木 義之
